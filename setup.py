@@ -6,6 +6,6 @@ setup(
     author='Samuel Grant',
     author_email='samuel.grant94@gmail.com',
     description='Python tools for Mu2e collaborators.', 
-    url='https://github.com/sam-grant/mu2epytools',
+    url='https://github.com/Mu2e/anapytools',
     packages=['anapytools'],
 )
